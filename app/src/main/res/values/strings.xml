@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Form Pendaftaran</string>
     <string name="laki">Laki-Laki</string>
+    <string name="wanita">Perempuan</string>
 
 
 </resources>
