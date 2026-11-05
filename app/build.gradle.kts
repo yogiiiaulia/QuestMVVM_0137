@@ -50,6 +50,7 @@ dependencies {
 
     //New gradle
     implementation(libs.lifecycle.viewmodel.compose)
+    implementation(libs.lifecycle.runtime.compose)
 
 
     androidTestImplementation(platform(libs.androidx.compose.bom))
